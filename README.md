@@ -30,4 +30,6 @@ endorsed by, or sponsored by Games Workshop.
 ## How it is refreshed
 
 Once a day, a workflow in the Grimstat repository runs `pnpm cli publish` and pushes the result
-here. A file changes only when its data does. Nothing in this repository is written by hand.
+to the `staging` branch. It reads every published tournament list against the staged data and the
+data on `main`, and moves `main` on only when the staged data reads them as well. The app reads
+`main`. A file changes only when its data does. Nothing in this repository is written by hand.
