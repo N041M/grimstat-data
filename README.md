@@ -16,7 +16,7 @@ An 11th edition file is merged from three sources:
 - Unit sizes, wargear options and which leaders join which units come from
   [BSData/wh40k-11e](https://github.com/BSData/wh40k-11e). The repository states no licence.
 - Datasheets, abilities, stratagems, enhancements and detachment rules come from Wahapedia's CSV
-  export.
+  export. The core rules come from Wahapedia's core rules page.
 
 A 10th edition file is built from Wahapedia alone.
 
