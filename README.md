@@ -20,10 +20,11 @@ An 11th edition file is merged from four sources:
   come from Wahapedia's CSV export. The core rules come from Wahapedia's core rules page.
 - Datasheets that Wahapedia does not list, the detachments the points list shares between
   factions, and which enhancements each unit may take come from catalogues Grimstat keeps.
-- The Space Wolves and Blood Angels Legends datasheets come from the Legends faction packs, free PDFs on
+- The Dark Angels, Space Wolves and Blood Angels Legends datasheets come from the Legends faction packs, free PDFs on
   [warhammer-community.com](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/).
   Where a pack describes a datasheet, the characteristics, weapons and abilities of the catalogues
-  stand, and the pack adds the composition, the loadout, the keywords and the Leader and Support units the catalogues lack.
+  stand, and the pack adds the composition, the loadout, the keywords, the Leader and Support units and the
+  characteristics the catalogues lack.
 
 The points history up to 14 Oct 2026 comes from an earlier copy of the Munitorum Field Manual, under
 the MIT licence at the end of this page. After that it comes from the daily reading of the official
